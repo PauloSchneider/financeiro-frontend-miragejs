@@ -31,5 +31,6 @@ export const Content = styled.div`
 
   h1 {
     color: #fff;
+    font-size: 300%;
   }
 `

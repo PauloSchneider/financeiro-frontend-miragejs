@@ -1,7 +1,5 @@
 # Gerenciador de Finanças
 
-### Projeto desenvolvido para consolidar os conhecimentos de React e Typescript.
-
 ### 📚  Descrição
 Gerenciador de finanças utilizando React e Typescript, desenvolvido durante o Ignite da Rocketseat.
 

@@ -4,6 +4,7 @@
 Gerenciador de finanças utilizando React e Typescript, desenvolvido durante o Ignite da Rocketseat.
 
 ### 🖥️  Recursos Utilizados
+- [Yarn]([https://pt-br.reactjs.org/](https://yarnpkg.com/))
 - [React](https://pt-br.reactjs.org/)
 - [Styled-components](https://styled-components.com/)
 - [TypeScript](https://www.typescriptlang.org/)

@@ -12,3 +12,6 @@ Gerenciador de finanças utilizando React e Typescript, desenvolvido durante o I
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [MirageJS](https://miragejs.com/)
 - [Polished](https://polished.js.org/)
+
+
+![Alt text](https://i.imgur.com/CZx1tcf.png "Optional title")

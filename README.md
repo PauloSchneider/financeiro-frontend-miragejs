@@ -12,4 +12,5 @@ Gerenciador de finanças utilizando React e Typescript, desenvolvido durante o I
 - [Polished](https://polished.js.org/)
 
 ### 🖼️  Imagem do projeto
-![](https://i.imgur.com/CZx1tcf.png "")
+Imagem da tela principal
+![](https://i.imgur.com/CZx1tcf.png "Imagem da tela principal")

@@ -13,5 +13,5 @@ Gerenciador de finanças utilizando React e Typescript, desenvolvido durante o I
 - [MirageJS](https://miragejs.com/)
 - [Polished](https://polished.js.org/)
 
-### 🖼️  Recursos Utilizados
+### 🖼️  Imagem do projeto
 ![](https://i.imgur.com/CZx1tcf.png "")
